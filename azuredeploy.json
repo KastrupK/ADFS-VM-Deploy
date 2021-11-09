@@ -18,6 +18,8 @@
       "metadata": {
         "description": "The OS Image you want to install on the VMs"
       },
+      "defaultValue": "2019-Datacenter"
+    },
     "storageAccountType": {
       "type": "string",
       "allowedValues": [
