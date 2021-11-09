@@ -15,6 +15,9 @@
         "2016-Datacenter",
         "2012-R2-Datacenter"
       ],
+      "metadata": {
+        "description": "The OS Image you want to install on the VMs"
+      },
     "storageAccountType": {
       "type": "string",
       "allowedValues": [
