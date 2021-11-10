@@ -494,6 +494,9 @@
           "location": {
             "value": "[parameters('location')]"
           },
+          "ImageSku": {
+            "value": "[parameters('ImageSku')]"
+          },
           "adminUsername": {
             "value": "[parameters('adminUsername')]"
           },
@@ -535,6 +538,9 @@
           "location": {
             "value": "[parameters('location')]"
           },
+          "ImageSku": {
+            "value": "[parameters('ImageSku')]"
+          },
           "adminUsername": {
             "value": "[parameters('adminUsername')]"
           },
@@ -575,6 +581,9 @@
         "parameters": {
           "location": {
             "value": "[parameters('location')]"
+          },
+          "ImageSku": {
+            "value": "[parameters('ImageSku')]"
           },
           "adminUsername": {
             "value": "[parameters('adminUsername')]"
